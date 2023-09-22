@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](//[placehold.it/200x100](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTcdVdXWS28dNPDqargdeE_EyBc02DQPKUGg&usqp=CAU))
 
 <!--
 **Legich13/Legich13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
